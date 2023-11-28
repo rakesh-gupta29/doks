@@ -1,11 +1,11 @@
 ---
-title: Determination, in long terms outshines all other qualities.
+title: It's a beautiful thing, the destruction of words
 date: 2018-10-30
-description: "If you are determined to do something, you can overcome anything which is stopping you to do so."
+description: "As soon as Winston had dealt with each of the messages, he clipped his speakwritten corrections to the appropriate copy of the Times and pushed them into the pneumatic tube. "
 date: "2020-11-24T17:35:00+05:30"
-author: jasmeet
-authors: ["jasmeet"]
-tags: ["motivation"]
+author: rakesh
+authors: ["rakesh"]
+tags: ["motivation","purpose", "empowerment"]
 ---
 
 # He moved over to the window

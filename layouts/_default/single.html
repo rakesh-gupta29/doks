@@ -29,20 +29,7 @@
         {{ range first 5 $relatedBlogs }} {{ partial "post.html" .}} {{ end }}
       </ul>
     </div>
-    {{ end }} {{ $relatedTags := slice }} {{ range .Site.Pages }} {{ if and (eq
-    .Params.tags $tags) (ne .Permalink $.Permalink) }} {{ $relatedTags =
-    $relatedTags | append . }} {{ end }} {{ end }} {{ if gt (len $relatedTags) 0
-    }}
-    <div class="related-blogs pb-10">
-      <h3 class="mb-5 font-semibold bg-white bg-opacity-40 rounded-lg py-4 pl-4">
-        More from category <span class="text-brick">"{{  upper ( index $name 0) }}"</span>
-      </h3>
-      <ul class="space-y-7">
-        {{ range first 5 $relatedTags }} {{ range first 5 $relatedBlogs }} {{
-        partial "post.html" .}} {{ end }} {{ end }}
-      </ul>
-    </div>
-    {{ end }}
+    {{ end }} 
     
   </main>
   {{ partial "footer.html" .}}
