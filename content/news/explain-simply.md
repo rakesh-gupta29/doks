@@ -8,4 +8,4 @@ authors: ["rahul"]
 tags: ["development", "empowerment"]
 ---
 
-## learn to be articluate and use precise words
+## learn to be articulate and use precise words
