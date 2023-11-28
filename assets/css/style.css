@@ -1217,10 +1217,6 @@ tbody tr:nth-child(2n + 1) {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-html,
-body {
-  font-family: "Outfit", sans-serif !important;
-}
 
 .before\:float-left::before {
   content: var(--tw-content);
@@ -1354,3 +1350,11 @@ body {
   text-transform: uppercase;
   font-weight: bold;
 }
+
+
+
+html,
+body {
+  font-family: "Outfit", sans-serif !important;
+}
+
